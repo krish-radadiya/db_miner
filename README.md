@@ -1,5 +1,7 @@
+=> Project Definition: Quotes (DB Miner)
+
 => Project Description:
- 
+
  "Quotes" is a feature-rich mobile application developed using Flutter, incorporating concepts
 such as SQLite Database, Animation, API Calling, and Local JSON Bank. The app provides
 users with a diverse collection of inspirational quotes, empowering them with personalized

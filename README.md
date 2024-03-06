@@ -77,3 +77,18 @@ Project Evaluation:
 - User satisfaction with the application’s functionality and UI/UX
 - Quality of code and project structure
 - Presentation quality and clarity of communication
+- ================================= Screen Shots ===================================
+
+
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/f485c07e-f858-4e76-a4ab-a4d60fe9f23a" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/409023ff-7ba8-42e1-b1d6-1aeeffb1a61c" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/e399f5e4-5e33-4576-a4c1-f6b1980441b8" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/1296c38a-76a8-4271-8ad7-92fb5d15071c" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/9bcdcda4-1fcd-4606-9747-bf8bfc272784" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/4f56e925-5243-477f-b3e5-a66a87bfa3b3" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/81deab58-e8ed-4f10-8fdb-50572abdbed2" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/8af2e122-d226-4c9a-88bd-e9fd029385fb" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/25245897-2729-4e4b-9210-4e2dfe4acaec" width="250">
+
+
+

@@ -77,7 +77,7 @@ Project Evaluation:
 - User satisfaction with the application’s functionality and UI/UX
 - Quality of code and project structure
 - Presentation quality and clarity of communication
-- ================================= Screen Shots ===================================
+- ============================== Screen Shots ================================
 
 
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/f485c07e-f858-4e76-a4ab-a4d60fe9f23a" width="250">

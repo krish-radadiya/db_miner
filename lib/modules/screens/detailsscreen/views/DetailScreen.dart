@@ -3,24 +3,17 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:share_plus/share_plus.dart';
-
 import 'dart:math' as math;
 import '../controller/category_controller.dart';
 import '../controller/qoutes_controller.dart';
-import '../model/category_database_model.dart';
 import '../../../model/qoute_databse.dart';
 import '../../../utils/DbHelper.dart';
 import '../../../utils/common.dart';
 import 'SecondDetailsSCreen.dart';
 
-class DetailsScreen extends StatefulWidget {
+class DetailsScreen extends StatelessWidget {
   const DetailsScreen({Key? key}) : super(key: key);
 
-  @override
-  State<DetailsScreen> createState() => _DetailsScreenState();
-}
-
-class _DetailsScreenState extends State<DetailsScreen> {
   @override
   Widget build(BuildContext context) {
     CategoryController categoryController = Get.put(CategoryController());

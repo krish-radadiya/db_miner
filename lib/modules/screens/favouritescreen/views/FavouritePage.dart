@@ -41,7 +41,7 @@ class _FavouritePageState extends State<FavouritePage> {
               Icons.arrow_back,
             ),
           ),
-          title: Text(
+          title: const Text(
             "favourite",
           ),
           centerTitle: true,
@@ -83,7 +83,7 @@ class _FavouritePageState extends State<FavouritePage> {
               );
             } else {
               return Padding(
-                padding: EdgeInsets.all(
+                padding: const EdgeInsets.all(
                   12,
                 ),
                 child: ListView.separated(

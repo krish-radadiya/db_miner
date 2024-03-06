@@ -123,56 +123,56 @@ class _HomePageState extends State<HomePage> {
           } else if (snapshot.hasData) {
             List<CategoryDatabaseModel>? data = snapshot.data;
             return Padding(
-              padding: const EdgeInsets.all(14),
-              child: Container(
-                child: GridView.builder(
-                  physics: const BouncingScrollPhysics(),
-                  itemCount: data?.length,
-                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 2,
-                    mainAxisSpacing: 10,
-                    crossAxisSpacing: 10,
-                  ),
-                  itemBuilder: (context, index) {
-                    return GestureDetector(
-                      onTap: () async {
-                        getAllQuotes = DBHelper.dbHelper
-                            .fatchAllQuotes(id: data[index].id);
-                        getAllQuotes!.then(
-                          (value) => print(
-                            value.length,
-                          ),
-                        );
-                        categoryController
-                            .setCategoryName(data[index].category_name);
-                        //
-                        // print(categoryController.categoryName.value);
-                        Get.to(
-                          () => const DetailsScreen(),
-                        );
-                      },
-                      child: Container(
-                        decoration: BoxDecoration(
-                          color: Color((math.Random().nextDouble() * 0xFFFFFF)
-                                  .toInt())
-                              .withOpacity(0.2),
-                          borderRadius: BorderRadius.circular(
-                            20,
-                          ),
+              padding: const EdgeInsets.all(
+                14,
+              ),
+              child: GridView.builder(
+                physics: const BouncingScrollPhysics(),
+                itemCount: data?.length,
+                gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                  crossAxisCount: 2,
+                  mainAxisSpacing: 10,
+                  crossAxisSpacing: 10,
+                ),
+                itemBuilder: (context, index) {
+                  return GestureDetector(
+                    onTap: () async {
+                      getAllQuotes =
+                          DBHelper.dbHelper.fatchAllQuotes(id: data[index].id);
+                      getAllQuotes!.then(
+                        (value) => print(
+                          value.length,
                         ),
-                        child: Center(
-                          child: Text(
-                            data![index].category_name,
-                            style: const TextStyle(
-                              fontWeight: FontWeight.bold,
-                              fontSize: 18,
-                            ),
+                      );
+                      categoryController
+                          .setCategoryName(data[index].category_name);
+                      //
+                      // print(categoryController.categoryName.value);
+                      Get.to(
+                        () => const DetailsScreen(),
+                      );
+                    },
+                    child: Container(
+                      decoration: BoxDecoration(
+                        color: Color(
+                                (math.Random().nextDouble() * 0xFFFFFF).toInt())
+                            .withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(
+                          20,
+                        ),
+                      ),
+                      child: Center(
+                        child: Text(
+                          data![index].category_name,
+                          style: const TextStyle(
+                            fontWeight: FontWeight.bold,
+                            fontSize: 18,
                           ),
                         ),
                       ),
-                    );
-                  },
-                ),
+                    ),
+                  );
+                },
               ),
             );
           }

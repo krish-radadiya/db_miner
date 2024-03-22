@@ -81,6 +81,10 @@ Project Evaluation:
 
 
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/f485c07e-f858-4e76-a4ab-a4d60fe9f23a" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/0da08a2c-4e85-4fc9-b819-da49a01923f9" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/0c2145de-107e-4cb7-a23a-2fb5904aa434" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/1e987d55-49b9-4c57-bdd4-8f576cbe187b" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/32afaa5e-2f41-47e9-9f12-32d1868cbe0d" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/409023ff-7ba8-42e1-b1d6-1aeeffb1a61c" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/e399f5e4-5e33-4576-a4c1-f6b1980441b8" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/1296c38a-76a8-4271-8ad7-92fb5d15071c" width="250">
@@ -89,6 +93,9 @@ Project Evaluation:
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/81deab58-e8ed-4f10-8fdb-50572abdbed2" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/8af2e122-d226-4c9a-88bd-e9fd029385fb" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/25245897-2729-4e4b-9210-4e2dfe4acaec" width="250">
+
+
+
 
 
 

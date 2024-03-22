@@ -35,15 +35,26 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  get:
-  sqflite: ^2.3.0
-  get_storage:
-  google_fonts:
-  image_gallery_saver:
-  screenshot:
-  wallpaper:
-  flutter_wallpaper_manager:
-  share_plus:
+  get: ^4.6.5
+  sqflite: ^2.2.8+4
+  path: ^1.8.3
+  share_plus: ^7.0.2
+  image_gallery_saver: ^2.0.2
+  shared_preferences: ^2.1.2
+  google_fonts: ^4.0.4
+  screenshot: ^2.0.0
+  lottie: ^2.3.2
+  wallpaper: ^1.1.0
+  flutter_cache_manager:
+  flutter_wallpaper_manager: ^0.0.3
+  path_provider: ^2.0.15
+  get_storage: ^2.1.1
+  transparent_image:
+  animated_page_transition: ^0.0.1+2
+  swipeable_page_route: ^0.3.0
+  flutter_svg:
+  onboarding: ^3.1.0
+
 
 
 dev_dependencies:
@@ -74,6 +85,8 @@ flutter:
     - assets/images/
     - assets/json/
     - assets/continer_images/
+    - assets/splash_screen/
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

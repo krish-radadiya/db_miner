@@ -85,15 +85,12 @@ Project Evaluation:
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/0c2145de-107e-4cb7-a23a-2fb5904aa434" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/1e987d55-49b9-4c57-bdd4-8f576cbe187b" width="250">
 <img src="https://github.com/krish-radadiya/db_miner/assets/113992828/32afaa5e-2f41-47e9-9f12-32d1868cbe0d" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/409023ff-7ba8-42e1-b1d6-1aeeffb1a61c" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/e399f5e4-5e33-4576-a4c1-f6b1980441b8" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/1296c38a-76a8-4271-8ad7-92fb5d15071c" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/9bcdcda4-1fcd-4606-9747-bf8bfc272784" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/4f56e925-5243-477f-b3e5-a66a87bfa3b3" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/81deab58-e8ed-4f10-8fdb-50572abdbed2" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/8af2e122-d226-4c9a-88bd-e9fd029385fb" width="250">
-<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/25245897-2729-4e4b-9210-4e2dfe4acaec" width="250">
-
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/a46943a4-656b-4f00-82c9-c18618275654" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/5d8fce93-ee2c-4e49-a093-4346a0393c9a" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/9d8002bf-48eb-470b-a3bb-18ed71233a82" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/231f0e69-abaa-42c5-b5b6-32f0941bc825" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/181090ad-b5d1-42f3-ae4e-1ce21936cab6" width="250">
+<img src="https://github.com/krish-radadiya/db_miner/assets/113992828/080a66fa-135b-48ee-bf18-f5707950bd1c" width="250">
 
 
 
